@@ -5,7 +5,7 @@ java_import(
         "notice",  # Apache 2
     ], 
     jars = [
-        "guava-25.0-jre.jar",
+        "guava-33.1.0-jre.jar",
     ],
     visibility = [
         "//visibility:public",

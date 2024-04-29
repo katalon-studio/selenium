@@ -4,9 +4,9 @@ java_import(
     "notice",  # Apache 2
   ],
   jars = [
-    'okio-1.14.0.jar',
+    'okio-1.17.6.jar',
   ],
-  srcjar = 'okio-1.14.0-sources.jar',
+  srcjar = 'okio-1.17.6-sources.jar',
   visibility = [
     '//third_party/java/okhttp3:__pkg__'
   ],
